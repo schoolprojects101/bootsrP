@@ -136,3 +136,43 @@ footer {
 	text-align: center;
 	margin-top: 30px;
 }
+
+
+#vblogpic1 {
+	width: 36vw;
+	height: 350px;
+	margin: 10px;
+	border-radius: 20px;
+}
+
+.blogmini {
+	width: 30vw;
+	height: 200px;
+	border-radius: 5px;
+	margin: 10px;
+	font-style: bold;
+}
+
+.blogcontent {
+	margin: 10px;
+	font-size: 20px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	background-color: #90e0ef;
+	margin-bottom: 0;
+}
+
+#minilistq {
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+	margin: 5px 10px;
+}
+
+#blogtitle {
+	margin-top: 10px;
+}
+
+#blogauthor {
+	margin: 0;
+	font-size: 15px;
+}
