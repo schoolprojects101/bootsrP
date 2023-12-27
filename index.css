@@ -1,6 +1,7 @@
 body {
-	background-color: #03045e;
+	background-color: #90e0ef;
 	overflow-x: hidden;
+	font-family: "Times New Roman", Times, serif;
 }
 
 #mainpic {
@@ -84,16 +85,11 @@ a {
 
 footer {
 	text-align: center;
-	color: aliceblue;
+	color: black;
 	font-size: 8px;
 	margin-top: 5px;
 }
 
-#uspic{
-	height: 400px;
-	width:400px;  
-	
-}
 #abouttext1 {
 	font-size: 40px;
 }
@@ -136,7 +132,6 @@ footer {
 	text-align: center;
 	margin-top: 30px;
 }
-
 
 #vblogpic1 {
 	width: 36vw;
