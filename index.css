@@ -89,6 +89,11 @@ footer {
 	margin-top: 5px;
 }
 
+#uspic{
+	height: 400px;
+	width:400px;  
+	
+}
 #abouttext1 {
 	font-size: 40px;
 }
